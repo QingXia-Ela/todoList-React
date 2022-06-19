@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# todo-List
+
+A small project basic build by react
+
+Including most basic function (with out retrieve)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
